@@ -49,14 +49,14 @@ For this assignment I will complete the following steps:
 - [x] Create a private Repository
 - [x] Create a README.md file including information about me and what I will use GitHub for in this assignment
 - [x] Use at least six different markdown text [formatting features](#formatting-features)
-- [ ] Demonstrate the following commands:\
+- [x] Demonstrate the following commands:\
          - Checking the status\
          - Creating a branch\
          - Adding files to a branch\
          - Adding commits with meaningful messages\
          - Opening a pull request\
          - Merging and deploying to main branch
-- [ ] Take screenshots of the process and add to my README.md file
+- [x] Take screenshots of the process and add to my README.md file
 - [ ] Create .gitignore and briefly explain what it is for
 - [ ] Create requirements.txt and briefly explain what it is
 for
@@ -109,6 +109,29 @@ In this step, I added image files to the branch. I have added screenshots of the
 <br/>
 <img width="1129" height="216" alt="Screenshot of Adding files to a branch" src="https://github.com/user-attachments/assets/21fd0988-3919-4729-bd71-49806c058df4" /><br/>
 <br/>
-         - Adding commits with meaningful messages\
-         - Opening a pull request\
-         - Merging and deploying to main branch
+
+**4. Adding commits with meaningful messages**<br/>
+In this step, I commited the changes and added a detailed description of the new section I added.<br/>
+<br/>
+<img width="357" height="385" alt="Screenshot of Commit Changes and description of the updates." src="https://github.com/user-attachments/assets/5e060b83-ca7f-48fc-a270-a34dd4f81e3b" /><br/>
+<br/>
+
+**5. Opening a pull request**<br/>
+In this step. I opened the new pull request and compared the changes of this new branch and the main.<br/>
+<br/>
+<img width="937" height="666" alt="Screenshot of comparing the changes of the new branch and the main." src="https://github.com/user-attachments/assets/bd9bee31-c693-462a-9f7d-7c03f34f7c64" /><br/>
+<br/>
+
+**6. Merging and deploying to main branch**<br/>\
+In this step, I seen that there was no conflict issues and proceeded to merge to the main branch. I then confirmed the merge and the pull request was complete.<br/>
+<br/>
+<img width="663" height="125" alt="Screenshot of no conflict issues and proceed to merge to main branch." src="https://github.com/user-attachments/assets/f4ce320d-1717-4aea-9c01-43634bd7e82c" /><br/>
+<br/>
+<br/>
+<img width="658" height="279" alt="Screenshot of confirming the merge." src="https://github.com/user-attachments/assets/417f9b8b-9fa4-4fd0-b4e0-9d39b1aaf287" /><br/>
+<br/>
+<br/>
+<img width="658" height="72" alt="Screenshot of Pull request complete." src="https://github.com/user-attachments/assets/3b04929e-91eb-4696-b642-763b11cba4b1" />
+
+
+
