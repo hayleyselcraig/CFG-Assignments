@@ -5,7 +5,7 @@ Hello! My name is Hayley Selcraig.\
 My hobbies include photography, reading and walking my Maltese dog called Ellie.\
 I have done photography for charity events, weddings and personal shoots.\
 You can view my online gallery [Here](https://hayleyselcraigphotography.pixieset.com/).\
-I am a big Disney fan and my favourite movie is Lilo & Stitch.\
+I am a big Disney fan and my favourite movie is Lilo & Stitch.
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠏⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⢠⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -55,7 +55,7 @@ For this assignment I will complete the following steps:
          - Adding files to a branch\
          - Adding commits with meaningful messages\
          - Opening a pull request\
-         - Merging and deploying to main branch\
+         - Merging and deploying to main branch
 - [ ] Take screenshots of the process and add to my README.md file
 - [ ] Create .gitignore and briefly explain what it is for
 - [ ] Create requirements.txt and briefly explain what it is
@@ -75,6 +75,7 @@ I have used the following formatting features in this assignment:
 6. Task List
 7. Quoting Code
 
+## Git Commands
 Some basic Git commands that I used throughout this assignment:
 ```
 git clone
