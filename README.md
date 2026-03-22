@@ -86,3 +86,29 @@ git push
 git pull
 ```
 
+## Screenshots
+Here is screenshots of the process<br/>
+
+**1. Checking the status**<br/>
+In this step I used this git command, which will list which files are staged, unstaged, and untracked.
+```
+git status
+```
+
+<img width="564" height="252" alt="Screenshot of checking status of the readme.md file" src="https://github.com/user-attachments/assets/e9b6e78a-b8c2-42c3-a026-e9263971c57d" /><br/>
+<br/>
+
+**2. Creating a branch**<br/>
+In this step, I created a new branch and named it ***Screenshots*** this will allow me to work on this new part of the readme.md file without affecting the main.<br/>
+<br/>
+<img width="349" height="342" alt="Screen shot of Creating a branch" src="https://github.com/user-attachments/assets/49a54128-4ff4-4158-a5a9-e45ef6e76eb0" /><br/>
+<br/>
+
+**3. Adding files to a branch**<br/>
+In this step, I added image files to the branch. I have added screenshots of the steps I took and added accurate alt text which gives context to the screenshots.<br/>
+<br/>
+<img width="1129" height="216" alt="Screenshot of Adding files to a branch" src="https://github.com/user-attachments/assets/21fd0988-3919-4729-bd71-49806c058df4" /><br/>
+<br/>
+         - Adding commits with meaningful messages\
+         - Opening a pull request\
+         - Merging and deploying to main branch
