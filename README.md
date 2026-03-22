@@ -1,11 +1,11 @@
 # CFG Assignment 1
 
 ## About Me
-Hello! My name is Hayley Selcraig.
-My hobbies include photography, reading and walking my Maltese dog called Ellie.
-I have done photography for charity events, weddings and personal shoots.
-You can view my online gallery [Here](https://hayleyselcraigphotography.pixieset.com/).
-I am a big Disney fan and my favourite movie is Lilo & Stitch.
+Hello! My name is Hayley Selcraig.\
+My hobbies include photography, reading and walking my Maltese dog called Ellie.\
+I have done photography for charity events, weddings and personal shoots.\
+You can view my online gallery [Here](https://hayleyselcraigphotography.pixieset.com/).\
+I am a big Disney fan and my favourite movie is Lilo & Stitch.\
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠏⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⢠⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -34,7 +34,7 @@ I am a big Disney fan and my favourite movie is Lilo & Stitch.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠏⠀⠘⣆⠘⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠀⠀⠀⠀⠀⣯⣉⢉⢉⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## Coding Experience
-I have done the following kickstarter and tech taster courses through CFG which I really enjoyed:
+I have done the following Kickstarter and Tech Taster courses through CFG which I really enjoyed:
 - C#
 - JavaScript
 - Introduction to coding
@@ -49,13 +49,13 @@ For this assignment I will complete the following steps:
 - [x] Create a private Repository
 - [x] Create a README.md file including information about me and what I will use GitHub for in this assignment
 - [x] Use at least six different markdown text [formatting features](#formatting-features)
-- [ ] Demonstrate the following commands:
-         - Checking the status
-         - Creating a branch
-         - Adding files to a branch
-         - Adding commits with meaningful messages
-         - Opening a pull request
-         - Merging and deploying to main branch
+- [ ] Demonstrate the following commands:\
+         - Checking the status\
+         - Creating a branch\
+         - Adding files to a branch\
+         - Adding commits with meaningful messages\
+         - Opening a pull request\
+         - Merging and deploying to main branch\
 - [ ] Take screenshots of the process and add to my README.md file
 - [ ] Create .gitignore and briefly explain what it is for
 - [ ] Create requirements.txt and briefly explain what it is
@@ -81,5 +81,7 @@ git clone
 git status
 git add
 git commit
+git push
+git pull
 ```
 
