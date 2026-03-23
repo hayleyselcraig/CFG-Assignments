@@ -141,6 +141,16 @@ In this step, I seen that there was no conflict issues and proceeded to merge to
 
 ## Adding a .gitignore and requirements.txt file
 
+A .gitignore file tells Git which files or folders to ignore when tracking changes
+<br/>
+-It mainly affects new/untracked files
+<br/>
+-It helps prevent committing:
+system files (like macOS hidden files)
+IDE configs
+temporary or sensitive files<br/>
+<br/>
+<br/>
 A requirements.txt file lists all the packages or libraries required for a project.
 It allows them to be installed in one step, ensuring a consistent environment and supporting easier collaboration.<br/>
 <br/>
