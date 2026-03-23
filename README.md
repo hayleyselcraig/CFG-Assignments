@@ -139,4 +139,12 @@ In this step, I seen that there was no conflict issues and proceeded to merge to
 <img width="658" height="72" alt="Screenshot of Pull request complete." src="https://github.com/user-attachments/assets/3b04929e-91eb-4696-b642-763b11cba4b1" />
 
 
+## Adding a .gitignore and requirements.txt file
+
+A requirements.txt file lists all the packages or libraries required for a project.
+It allows them to be installed in one step, ensuring a consistent environment and supporting easier collaboration.<br/>
+<br/>
+
+
+
 
