@@ -57,12 +57,12 @@ For this assignment I will complete the following steps:
          - Opening a pull request\
          - Merging and deploying to main branch
 - [x] Take screenshots of the process and add to my README.md file
-- [ ] Create .gitignore and briefly explain what it is for
-- [ ] Create requirements.txt and briefly explain what it is
+- [x] Create .gitignore and briefly explain what it is for
+- [x] Create requirements.txt and briefly explain what it is
 for
-- [ ] Add Asmaa as a collaborator to your individual
+- [x] Add Asmaa as a collaborator to your individual
 repository for marking and review purposes
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] All tasks complete! :tada:
 
 ## Formatting Features
 <a name="formatting-features"></a>
@@ -77,20 +77,25 @@ I have used the following formatting features in this assignment:
 
 ## Git Commands
 Some basic Git commands that I used throughout this assignment:
-```
-git clone
-git status
-git add
-git commit
-git push
-git pull
-```
+
+```git clone``` Makes a copy of the remote repository to a local machine.<br/>
+<br/>
+```git status``` Provides an overview of your repository by showing which files have been modified, which changes are ready to be committed, and which files are not currently tracked by Git.<br/>
+<br/>
+```git add``` Tells Git which files we want to be included in our next save.<br/>
+<br/>
+```git commit``` Saves a snapshot of your changes in the local repository. These changes are stored locally and are not shared with the remote repository until you push them.<br/>
+<br/>
+```git push``` Sends our changes from the local repository to the remote repository.<br/>
+<br/>
+```git pull``` To get the most up-to-date version of the remote repository in our local repository.
+
 
 ## Screenshots
 Here is screenshots of the process<br/>
 
 **1. Checking the status**<br/>
-In this step I used this git command, which will list which files are staged, unstaged, and untracked.
+In this step I used this git command, which listed which files are staged, unstaged, and untracked.
 ```
 git status
 ```
@@ -99,9 +104,9 @@ git status
 <br/>
 
 **2. Creating a branch**<br/>
-In this step, I created a new branch and named it ***Screenshots*** this will allow me to work on this new part of the readme.md file without affecting the main.<br/>
+In this step, I created a new branch and named it ***Screenshots*** this allowed me to work on this new part of the readme.md file without affecting the main.<br/>
 <br/>
-<img width="349" height="342" alt="Screen shot of Creating a branch" src="https://github.com/user-attachments/assets/49a54128-4ff4-4158-a5a9-e45ef6e76eb0" /><br/>
+<img width="349" height="342" alt="Screenshot of Creating a branch" src="https://github.com/user-attachments/assets/49a54128-4ff4-4158-a5a9-e45ef6e76eb0" /><br/>
 <br/>
 
 **3. Adding files to a branch**<br/>
@@ -117,7 +122,7 @@ In this step, I commited the changes and added a detailed description of the new
 <br/>
 
 **5. Opening a pull request**<br/>
-In this step. I opened the new pull request and compared the changes of this new branch and the main.<br/>
+In this step. I opened the new pull request and compared the changes of this new branch against the main.<br/>
 <br/>
 <img width="937" height="666" alt="Screenshot of comparing the changes of the new branch and the main." src="https://github.com/user-attachments/assets/bd9bee31-c693-462a-9f7d-7c03f34f7c64" /><br/>
 <br/>
