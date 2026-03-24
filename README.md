@@ -15,7 +15,7 @@
 Hello! My name is Hayley Selcraig.\
 My hobbies include photography, reading and walking my Maltese dog called Ellie.\
 I have done photography for charity events, weddings and personal shoots.\
-You can view my online gallery [Here](https://hayleyselcraigphotography.pixieset.com/).\
+You can view my online gallery [here](https://hayleyselcraigphotography.pixieset.com/).\
 I am a big Disney fan and my favourite movie is Lilo & Stitch.
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠏⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
