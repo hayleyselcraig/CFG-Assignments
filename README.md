@@ -7,7 +7,7 @@
 [Formatting Feautures](#formatting-features)\
 [Git Commands](#git-commands)\
 [Screenshots](#screenshot-process)\
-[.gitignore & requirements.txt](#git-ignore-and-requirements)
+[Adding a .gitignore & requirements.txt](#git-ignore-and-requirements)
 
 
 
