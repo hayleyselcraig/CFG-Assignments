@@ -1,6 +1,17 @@
 # CFG Assignment 1
 
-## About Me
+## Contents
+[About Me](#about-me)\
+[Coding Experience](#coding-experience)\
+[Assignment One Task List](#assignment-task-list)\
+[Formatting Feautures](#formatting-features)\
+[Git Commands](#git-commands)\
+[Screenshots](#screenshot-process)\
+[.gitignore & requirements.txt](#git-ignore-and-requirements)
+
+
+
+## About Me <a name="about-me"></a>
 Hello! My name is Hayley Selcraig.\
 My hobbies include photography, reading and walking my Maltese dog called Ellie.\
 I have done photography for charity events, weddings and personal shoots.\
@@ -33,16 +44,18 @@ I am a big Disney fan and my favourite movie is Lilo & Stitch.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⣧⠀⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⠀⠙⠦⣄⣀⡀⠈⠋⢈⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠏⠀⠘⣆⠘⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠀⠀⠀⠀⠀⣯⣉⢉⢉⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-## Coding Experience
+## Coding Experience <a name="coding-experience"></a>
 I have done the following Kickstarter and Tech Taster courses through CFG which I really enjoyed:
 - C#
 - JavaScript
 - Introduction to coding
 - Python
 
-## Using Git & Github
+### Using Git & Github 
 **This is my first time using Git & Github.**
 I am going to use this private repository for my CFG assignments.
+
+## Assignment One Task List <a name="assignment-task-list"></a>
 
 For this assignment I will complete the following steps:
 - [x] Create a GitHub account
@@ -75,7 +88,7 @@ I have used the following formatting features in this assignment:
 6. Task List
 7. Quoting Code
 
-## Git Commands
+## Git Commands <a name="git-commands"></a>
 Some basic Git commands that I used throughout this assignment:
 
 ```git clone``` Makes a copy of the remote repository to a local machine.<br/>
@@ -91,7 +104,7 @@ Some basic Git commands that I used throughout this assignment:
 ```git pull``` To get the most up-to-date version of the remote repository in our local repository.
 
 
-## Screenshots
+## Screenshots <a name="screenshot-process"></a>
 Here is screenshots of the process<br/>
 
 **1. Checking the status**<br/>
@@ -139,7 +152,7 @@ In this step, I seen that there was no conflict issues and proceeded to merge to
 <img width="658" height="72" alt="Screenshot of Pull request complete." src="https://github.com/user-attachments/assets/3b04929e-91eb-4696-b642-763b11cba4b1" />
 
 
-## Adding a .gitignore and requirements.txt file
+## Adding a .gitignore and requirements.txt file <a name="git-ignore-and-requirements"></a>
 
 A .gitignore file tells Git which files or folders to ignore when tracking changes
 <br/>
