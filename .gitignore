@@ -1,7 +1,7 @@
 # I used a .gitignore file to exclude the virtual environment folder from version control, as it contains unnecessary system files and dependencies.
 venv/
 .vscode/
-disney_day_plan.txt
+disgit add .gitignoreney_day_plan.txt
 # My .gitignore file #
 A .gitignore file tells Git which files or folders to ignore when tracking changes
 
