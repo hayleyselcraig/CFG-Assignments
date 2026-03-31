@@ -1,0 +1,2 @@
+venv/
+# I used a .gitignore file to exclude the virtual environment folder from version control, as it contains unnecessary system files and dependencies.
