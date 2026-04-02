@@ -1,7 +1,8 @@
 # I used a .gitignore file to exclude the virtual environment folder from version control, as it contains unnecessary system files and dependencies.
 venv/
 .vscode/
-# My .gitignore file #
+
+# My .gitignore file
 A .gitignore file tells Git which files or folders to ignore when tracking changes
 
 It mainly affects new/untracked files
