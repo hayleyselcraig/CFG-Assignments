@@ -81,7 +81,7 @@ pip install requests
 2. Run the program:
 
 ```bash
-python disney_application.py
+python3 disney_application.py
 ```
 
 3. Follow the prompts:
