@@ -5,3 +5,11 @@ charset-normalizer==3.4.6
 idna==3.11
 requests==2.33.1
 urllib3==2.6.3
+
+## Setup
+
+Install required packages:
+pip install -r requirements.txt
+
+Run the program:
+python3 disney_application.py

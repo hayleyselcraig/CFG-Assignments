@@ -1,18 +1,18 @@
 Disney Day Park Planner
 -----------------------
 Name: hayley
-Favourite character: jasmine
+Favourite character: stitch
 
 Character Information:
-Good choice! Jasmine is a fun character!
-They also appear in a Disney film.
-No additional park information found in the API.
+Good choice! Stitch is a fun character!
+They also appear in Lilo & Stitch.
+You will find them at this attraction in the park: Stitch's Great Escape!.
 
-Chosen day type: adventurous
-Chosen park: Animal Kingdom
-Disney username: HayExplorer59
+Chosen day type: fun
+Chosen park: Hollywood Studios
+Disney username: HayHero13
 
-Plan for Animal Kingdom:
-Ride: Expedition Everest
-Character meet & greet: Rafiki
-Show: Festival of the Lion King
+Plan for Hollywood Studios:
+Ride: The Twilight Zone Tower of Terror
+Character meet & greet: Buzz Lightyear
+Show: Fantasmic Nighttime Spectacular
