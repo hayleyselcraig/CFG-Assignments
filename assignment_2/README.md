@@ -20,20 +20,37 @@ This project demonstrates the use of **APIs, functions, data structures, loops, 
 
 ---
 
-## 🧠 Concepts Demonstrated
+## ✅ Assignment Requirements Met
 
-This project meets the assignment requirements by including:
+- **API integration (Disney API)**  
+  Example: `requests.get(url)` → `.json()`
 
-* ✅ **API integration** using the Disney API
-* ✅ **Functions with return values** (`get_character_info`, `create_username`, `display_plan`)
-* ✅ **Conditional logic (if/elif/else)** for decision making
-* ✅ **Loops** for input validation
-* ✅ **Data structures** (dictionary for parks and activities)
-* ✅ **String slicing** (username generation)
-* ✅ **Built-in functions** (`input()`, `print()`, `len()`)
-* ✅ **External module usage** (`requests`)
-* ✅ **File handling** (writing output to `.txt` file)
+- **Boolean + if/else logic**  
+  Example: `if park_day == "magical"`
 
+- **Data structures (dictionary & lists)**  
+  Example: `parks = {"Magic Kingdom": ["Ride", "Character", "Show"]}`
+
+- **Loop (while loop for validation)**  
+  Example: `while not is_valid_day:`
+
+- **Functions with return values**  
+  Example: `return message`
+
+- **String slicing**  
+  Example: `name[:3]`
+
+- **Built-in functions**  
+  Example: `input()`, `print()`, `len()`
+
+- **External modules**  
+  Example: `requests` (API), `random` (username)
+
+- **API comments included**  
+  Example: explains setup + no API key needed
+
+- **File handling (output to file)**  
+  Example: `open("disney_day_plan.txt", "w")`
 ---
 
 ## 🌐 API Used
