@@ -290,6 +290,28 @@ LEFT JOIN shoot_types ON bookings.shoot_id = shoot_types.shoot_id
 WHERE shoot_types.shoot_id IS NULL;
 
 -- ==================================================
+-- UPDATE QUERY
+-- ==================================================
+
+-- Update query: changes a customer's phone number
+-- for example if the customer provides new contact details.
+
+UPDATE customers
+SET phone = '07999999999'
+WHERE customer_id = 1;
+
+-- Update query: increases the price of a product
+-- for example if printing or material costs increase.
+
+UPDATE products
+SET price = 275.00
+WHERE product_name = 'Wedding Album';
+
+-- Check update query has made these new updates.
+SELECT * FROM customers
+SELECT * FROM products
+    
+-- ==================================================
 -- DELETE QUERY
 -- ==================================================
 
