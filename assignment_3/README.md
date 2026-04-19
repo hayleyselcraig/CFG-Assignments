@@ -49,6 +49,12 @@ Multiple INSERT queries used across all tables
 - [x] **Use at least 5 SELECT queries**  
 Includes basic views, business reports, validation checks, and summary queries
 
+- [x] **Use validation checks queries**  
+Included validation queries to identify invalid stock levels, incorrect order quantities, and unmatched foreign key records.
+
+- [x] **Use at least 1 UPDATE query**  
+Included example update queries to change customer contact details and update product pricing.
+
 - [x] **Use at least 1 DELETE query**  
 Included commented example: `DELETE FROM orders WHERE order_id = 1;`
 
@@ -117,3 +123,7 @@ Photography business management system
 - Stored Procedure  
 
 ---
+
+## Reflection
+
+This project helped me develop my understanding of relational database design, table relationships, SQL queries, joins, aggregate functions, and stored procedures. It also improved my confidence using GitHub for version control through branches, commits, and pull requests. Creating a database based on my own photography business made the project more meaningful and realistic.
